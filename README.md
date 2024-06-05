@@ -1,2 +1,9 @@
 # Bloxbet
-Items for my Roblox game
+
+Stuff for my Roblox game;
+
+```diff
+@@ Cases @@
+@@ Chances @@
+@@ Items (Item IDS) @@
+```
